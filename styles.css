@@ -1,15 +1,19 @@
 body{
+	text-align:center;
 	background-color:#f8f8f8;
 }
  
 .book-library{
-	background-color:#ffffff;
+	background-color:#f8f8f8;	
 }
-.author{
-	color:#777777;
+.book img{
+	padding:50px;
 }
  div .price-block{
 	color:#2ecc71;
 	background-color:green;
-	 text-align:center;
+}
+.book{
+    margin-top: 20px;
+    padding-bottom: 5px;
 }
