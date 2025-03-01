@@ -1,18 +1,39 @@
-body{
+*{
 	text-align:center;
 	background-color:#f8f8f8;
 }
  
 .book-library{
-	background-color:#f8f8f8;	
+	margin-top:0px;
+	background-color:rgb(255, 255, 255);
+/* 	padding:5px; */
+	
 }
+ 
+.book-library h1{
+	padding:20px;
+}
+ 
+.author{
+	text-align:start;
+	color:rgb(119, 119, 119);
+}
+h2{
+	text-align:start;
+}
+ 
 .book img{
 	padding:50px;
+	
 }
+ 
  div .price-block{
-	color:#2ecc71;
-	background-color:green;
+	color:white;
+	background-color:rgb(46, 204, 113);
+	padding:10px;
+	border-radius:5px;
 }
+ 
 .book{
     margin-top: 20px;
     padding-bottom: 5px;
